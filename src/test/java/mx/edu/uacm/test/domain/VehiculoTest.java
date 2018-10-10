@@ -39,7 +39,9 @@ public class VehiculoTest {
 		vehiculoRepository.save(vehiculo);
 	}
 	
+	@Test
 	public void testGuardarVehiculoConAccesorios() {
+		Accesorio accesorio = new Accesorio("Aleron");
 		
 	}
 	
