@@ -39,6 +39,10 @@ public class VehiculoTest {
 		vehiculoRepository.save(vehiculo);
 	}
 	
+	public void testGuardarVehiculoConAccesorios() {
+		
+	}
+	
 	
 
 }
